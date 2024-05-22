@@ -43,3 +43,4 @@ open-interpreter==0.1.4; python_version>"3.9"
 ta==0.10.2
 semantic-kernel==0.3.10.dev0
 
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
